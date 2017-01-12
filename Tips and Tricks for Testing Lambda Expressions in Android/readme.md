@@ -1,0 +1,3 @@
+From [@kingargyle](https://twitter.com/kingargyle] material for [Tips and Tricks for Testing Lambda Expressions in Android](https://speakerdeck.com/kingargyle/tips-and-tricks-for-testing-lambda-expressions-in-android)
+
+
