@@ -1,0 +1,1 @@
+From [@tamir_dresher](https://twitter.com/tamir_dresher) material for [From Zero to the Actor Model](http://www.slideshare.net/TamirDresher/from-zero-to-the-actor-model-with-akkanet-codemash2017-tamir-dresher)
