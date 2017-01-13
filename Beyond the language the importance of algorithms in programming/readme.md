@@ -1,0 +1,1 @@
+From [@weppos](https://twitter.com/weppos) material for [Beyond the language: the importance of algorithms in programming](https://slidr.io/weppos/beyond-the-language-the-importance-of-algorithms-codemash-2017#1)

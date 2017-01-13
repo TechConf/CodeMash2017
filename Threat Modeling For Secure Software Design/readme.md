@@ -1,0 +1,1 @@
+From [@roberthurlbut](https://twitter.com/roberthurlbut) material for [Threat Modeling For Secure Software Design](https://github.com/rhurlbut/CodeMash2017/blob/master/Robert-Hurlbut-CodeMash2017-Threat-Modeling-For-Secure-Software-Design-01122017.pdf)
