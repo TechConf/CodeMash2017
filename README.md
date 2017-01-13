@@ -7,7 +7,6 @@ Speakers: please feel free to send me pull requests with any of your content tha
 
 Organization: fork this repository and put your session materials, links or anything else in a subdirectory named with the same name as your session. Then send a pull request and I will merge it in. See the sample for an example of how it could work.
 
---- 
+---
 
-*Note that this is a volunteer effort and is not representing CodeMash in any official way. Thanks! 
-
+*Note that this is a volunteer effort and is not representing CodeMash in any official way. Thanks!
