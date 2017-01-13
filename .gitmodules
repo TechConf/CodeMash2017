@@ -1,0 +1,9 @@
+[submodule "electron-desktop-development-for-web-developers/electron-demo"]
+	path = electron-desktop-development-for-web-developers/electron-demo
+	url = https://github.com/cwoodruff/electron-demo.git
+[submodule "electron-desktop-development-for-web-developers/electron-react-demo"]
+	path = electron-desktop-development-for-web-developers/electron-react-demo
+	url = https://github.com/cwoodruff/electron-react-demo.git
+[submodule "electron-desktop-development-for-web-developers/electron-photon-demo"]
+	path = electron-desktop-development-for-web-developers/electron-photon-demo
+	url = https://github.com/cwoodruff/electron-photon-demo.git
