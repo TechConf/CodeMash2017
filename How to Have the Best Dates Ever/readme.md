@@ -1,1 +1,9 @@
-From [@mj1856](https://twitter.com/mj1856) material for [How to Have the Best Dates Ever](http://codeofmatt.com/2017/01/12/codemash-2017/)
+### How to Have the Best Dates Ever!
+####  (On date, time, and time zones in programming.)
+
+Matt Johnson  
+[@mj1856](http://twitter.com/mj1856)  
+[codeofmatt.com](http://codeofmatt.com)
+
+- [CodeMash Link](http://www.codemash.org/session/how-to-have-the-best-dates-ever-on-date-time-and-time-zones-in-programming/)
+- [Slides](http://codeofmatt.com/content/images/best-dates-ever.pdf)
