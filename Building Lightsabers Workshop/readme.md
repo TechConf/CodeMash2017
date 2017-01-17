@@ -1,0 +1,1 @@
+From [@javajudd](https://twitter.com/javajudd) [slides](https://s3.amazonaws.com/cmj-presentations/lightsabers-codemash-2017.pdf), [worksheet](https://s3.amazonaws.com/cmj-presentations/worksheet-codemash-2017.pdf) and [Instructables](http://www.instructables.com/id/Lightsabers-for-Learning-Basic-Electronics/) for KidzMash Building Lightsabers workshop.
