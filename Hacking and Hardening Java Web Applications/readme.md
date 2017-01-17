@@ -1,0 +1,1 @@
+From [@javajudd](https://twitter.com/javajudd) [slides](https://s3.amazonaws.com/cmj-presentations/hacking-codemash-2017.pdf) and [VM](http://prereqs.codemash.org/Files/hhjwa-2016.1-vbox-amd64.ova)for Hacking & Hardening Java Web Applications workshop.
