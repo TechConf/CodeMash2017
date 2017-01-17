@@ -2,7 +2,7 @@
 ---
 ##### Building Serverless Applications in AWS Workshop
 * Date: 1/11/17 1:00 pm
-* Speakers: Christopher Judd
+* Speakers: [Christopher Judd](https://twitter.com/javajudd) and [Jarred Olson](https://twitter.com/jarredolson)
 * Room: Nile
 * Tags: Cloud/Big Data, JavaScript
 * Category: Pre-Compiler
