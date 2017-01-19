@@ -1,0 +1,4 @@
+= Docker and Kubernetes Recipes at Codemash 2017
+
+So you are a developer but how comfortable are you and your team taking Docker from development to production? Are you hearing developers say, “But it works on my machine!” when code breaks in production? And if you are, how many hours are then spent standing up an accurate test environment to research and fix the bug that caused the problem? Docker provides PODA (Package Once Deploy Anywhere) and helps you reduce the impedance mismatch between dev, test, and production environment and simplifies application deployment. This workshop/session explains how to package, deploy, and scale applications using Docker. It will also cover orchestration frameworks like Docker Engine in Swarm Mode and Kubernetes.
+
