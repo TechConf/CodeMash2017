@@ -1,0 +1,19 @@
+# Let's Write a Lambda Calculus in Haskell
+Michael Gilliland - CodeMash 2017
+
+## [LambdaCal.hs](LambdaCal.hs)
+The interpreter, unchanged from the live-coding session.
+
+To compile it, get `ghc` (using `haskell-platform`, `slack` or something else) then run
+```bash
+ghc -o lc LambdaCal.hs
+```
+
+Run an example
+```bash
+./lc "(\x.x \y.y)"
+```
+
+
+## [Let's Write a Lambda Calculus in Haskell.pdf](Let's Write a Lambda Calculus in Haskell.pdf)
+The slides given as an introduction to the lambda calculus.
