@@ -1,0 +1,26 @@
+/**
+@memberof MyApp
+@ngdoc directive
+@name <%= componentName -%>Display
+@description A simple display page
+@example <<%= componentName -%>-display></<%= componentName.toLowerCase() -%>-display>
+*/
+(function(angular) {
+  'use strict';
+  angular.module('MyApp').directive('<%= componentName.toLowerCase() -%>Display', function($rootScope, $log) {
+    $log.log("<%= componentName.capitalize() -%>Display is running...");
+    return {
+      restrict: 'E',
+      replace: true,
+      templateUrl: '/components/<%= componentName.toLowerCase() -%>/display.html',
+      scope: {},
+      controllerAs: 'ctrl',
+      controller: function($scope) {
+
+        var ctrl = this;
+
+      }
+    };
+
+  });
+}(window.angular));

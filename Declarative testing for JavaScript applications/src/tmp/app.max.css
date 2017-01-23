@@ -1,0 +1,29 @@
+.font-variable-width {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+  padding: 10px 0px 0px 0px;
+}
+.field_name {
+  display: inline-block;
+  z-index: 100;
+  text-align: left;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  vertical-align: top;
+  line-height: 18px;
+  font-weight: bold;
+  width: 165px;
+  overflow: hidden;
+  margin: 5px 10px 5px 0px;
+  padding: 2px 0px 2px 0px;
+  text-rendering: optimizelegibility;
+}
+.field_value {
+  vertical-align: top;
+  display: inline-block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 18px;
+  margin: 5px 0px;
+  padding: 2px 0px 2px 0px;
+  text-rendering: optimizelegibility;
+}

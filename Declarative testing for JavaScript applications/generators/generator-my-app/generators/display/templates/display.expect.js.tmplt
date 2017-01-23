@@ -1,0 +1,4 @@
+window.ExpectData = window.ExpectData || {};
+window.ExpectData.<%= componentName -%> = {
+tabs: <%- tabs %>
+};

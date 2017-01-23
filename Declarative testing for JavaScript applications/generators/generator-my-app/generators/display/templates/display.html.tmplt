@@ -1,0 +1,15 @@
+<span>
+  <h3 style="margin-top: 0px;"><%= componentName.capitalize() -%>: </h3>
+  <uib-tabset>
+
+    <% tabs.forEach(function(t) { -%>
+    <uib-tab>
+      <uib-tab-heading id="<%= t.name -%>">
+        <%= t.name.capitalize() -%>
+      </uib-tab-heading>
+      <span ng-include="'/components/<%= componentName.toLowerCase() -%>/tab-<%= t.name.toLowerCase() -%>.html'"></span>
+    </uib-tab>
+    <% }); -%>
+
+  </uib-tabset>
+</span>

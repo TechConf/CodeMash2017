@@ -1,0 +1,9 @@
+{
+  "port": 8080,
+  "reloadDebounce": 250,
+  "files": ["./dist/**/*.{html,css,js}"],
+  "server": {
+    "baseDir": "./dist",
+    "index": "index.html"
+  }
+}

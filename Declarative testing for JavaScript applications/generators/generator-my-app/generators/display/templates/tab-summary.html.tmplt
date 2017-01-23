@@ -1,0 +1,17 @@
+<div class="row">
+
+<div class="col-md-6">
+    <div>
+      <% tab.sections.forEach(function(s) { -%>
+        <h4><%= s.name.capitalize() -%></h4>
+        <div class="well">
+          <% s.fields.forEach(function(f) { -%>
+          <span class="field_name"><%= f.name.capitalize() -%></span>
+          <span class="field_value"></span>
+          <br>
+          <% }); -%>
+        </div>
+      <% }); -%>
+</div>
+
+</div>
