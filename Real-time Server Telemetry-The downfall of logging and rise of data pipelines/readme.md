@@ -1,0 +1,5 @@
+# Real-time Server Telemetry: The downfall of logging and rise of data pipelines
+### Stephen Shary
+> Logging in modern applications is a feast or famine. Every scrap of information is needed when triaging production issues, but who can find relevant information among all the DEBUG and PERFORMANCE lines? Logging to files and STDOUT has become incompatible with cloud-native applications and distributed systems (and most other things). Modern telemetry and APM solutions need to tackle the issue of finding needles in haystacks as well as view the system from 50,000 feet with real-time data. Hear the story of our experiences at Kroger creating an open-source-based system including Elastic Search that handles over 900GBs of data each day. See how we visualize our current production status and discover problematic applications, servers and systems
+
+Slides: https://github.com/STeveShary/CodeMash2017-Talks/blob/master/ServerTelemetry.pdf
