@@ -1,0 +1,23 @@
+{
+  "indent": 2, /* indent sets white to true in jshint 0.9.1, but we want it to be false */
+  "white": false, /* so white goes after indent gets set */
+  "curly": true, /* requires you to always put curly braces around blocks in loops and conditionals */
+  "devel": true, /* expose console.log and alert and other globals */
+  "eqeqeq": true, /* prohibits the use of == and != in favor of === and !== */
+  "immed": true, /* prohibits the use of immediate function invocations without wrapping them in parentheses */
+  "latedef": true, /* prohibits the use of a variable before it was defined (ie, no hoisting) */
+  "newcap": false, /* true forces you to capitalize names of constructor functions (we have a 3rd party lib that doesn't) */
+  "noarg": true, /* prohibits the use of arguments.caller and arguments.callee (ecma5 strict) */
+  "sub": true, /* suppresses warnings about using [] notation when it can be expressed in dot notation */
+  "strict": true, /* requires all functions to run in EcmaScript 5's strict mode */
+  "undef": true, /* no explicitly undefined vars (ie, no spontaneous globals) */
+  "boss": true, /* suppresses warnings about the use of assignments in cases where comparisons are expected */
+  "eqnull": true, /* suppresses warnings about == null comparisons */
+  "browser": true, /* defines globals exposed by modern browsers */
+  "laxcomma": true, /* suppresses warnings about comma-first coding style */
+  "globals": {
+    "Modernizr": true,
+    "self": true,
+    "url_regex": true
+  }
+}

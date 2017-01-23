@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+  <html lang="en" ng-app="MyApp" ng-strict-di>
+  <head>
+    <title ng-bind="'My App' + pageTitle"></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+
+    <base href="/">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/app.min.css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-sanitize.min.js"></script>
+    <script src="/js/ui-bootstrap-tpls.js"></script>
+
+  </head>
+
+  <body class="container-fluid">
+
+    <div class="clearfix">
+      <div class="container-fluid" ng-view>
+      </div><!-- # end .container-fluid -->
+    </div><!-- # end .page_content -->
+
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/app.min.js" defer></script>
+
+  </body>
+
+</html>
