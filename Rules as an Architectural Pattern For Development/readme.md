@@ -14,7 +14,7 @@ Rule-based architectural patterns produce solutions that are highly performant, 
 
 Slides:
 
-[https://github.com/steveswing/cere/blob/master/Rules+as+an+Architectural+Pattern+For+Development-CodeMash.pdf](https://github.com/steveswing/cere/blob/master/Rules+as+an+Architectural+Pattern+For+Development-CodeMash.pdf)
+[https://github.com/steveswing/cere/blob/master/Rules%20as%20an%20Architectural%20Pattern%20For%20Development-CodeMash.pdf](https://github.com/steveswing/cere/blob/master/Rules%20as%20an%20Architectural%20Pattern%20For%20Development-CodeMash.pdf)
 
 Related Source Repository:
 
