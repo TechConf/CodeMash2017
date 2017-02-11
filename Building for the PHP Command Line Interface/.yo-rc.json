@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Writing for the PHP Command Line Interface",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "writing-for-php-cli"
+  }
+}
